@@ -1,2 +1,9 @@
+Projeto incentivado pela Semana do Python, patrocinado pela Hashtag Programação.
 # Previsao-de-Vendas
-Modelo de previsão de vendas baseado nos dados de investimento nos diferentes canais (TV, radio, jornais).
+
+## Objetivo
+
+Criar um modelo de previsão de vendas a partir do histórico de vendas e investimento em marketing.
+
+#Desafio:
+
